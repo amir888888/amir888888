@@ -1,2 +1,1 @@
-# DEMO
-some description
+learning mearn/mean stack
